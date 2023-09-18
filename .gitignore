@@ -1,0 +1,29 @@
+# Virtual environments
+receipt-checker/
+
+# Log files
+*.log
+
+# Compiled Python files
+*.pyc
+
+# Python cache files
+__pycache__/
+
+# Environment variables file
+.env
+
+# Node.js dependencies
+node_modules/
+
+# Distribution files
+dist/
+
+# Mac OS file system metadata
+.DS_Store
+
+# JetBrains IDE settings
+.idea/
+
+# VS Code settings
+.vscode/
